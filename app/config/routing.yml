@@ -1,0 +1,11 @@
+tuni_parking_api:
+    resource: "@TuniParkingApiBundle/Resources/config/routing.yml"
+    prefix:   /api
+
+tuni_parking_back_office:
+    resource: "@TuniParkingBackOfficeBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

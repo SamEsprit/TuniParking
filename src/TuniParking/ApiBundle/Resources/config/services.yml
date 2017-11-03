@@ -1,0 +1,4 @@
+services:
+#    tuni_parking_api.example:
+#        class: TuniParking\ApiBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

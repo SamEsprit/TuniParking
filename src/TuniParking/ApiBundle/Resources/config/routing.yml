@@ -1,0 +1,7 @@
+tuni_parking_api_homepage:
+    path:     /
+    defaults: { _controller: TuniParkingApiBundle:Default:index }
+tuni_parking_api_parking:
+    path:     /Parking
+    defaults: { _controller: TuniParkingApiBundle:Default:ListParkings }
+    methods: GET

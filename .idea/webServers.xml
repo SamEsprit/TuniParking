@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61aa3ad5-3993-4d80-870c-cf2d2757b265" name="parkini" url="http://ftp.theleadercenter.tn">
+        <fileTransfer host="ftp.theleadercenter.tn" port="21" rootFolder="/parkini.theleadercenter.tn">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
